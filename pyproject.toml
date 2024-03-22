@@ -5,10 +5,10 @@
 dependencies = [
     "python-dotenv",
     "torch>=2.2.0",
-    "transformers==4.38.1",
+    "transformers>=4.39.1",
     "datasets>=2.16.0",
     "bitsandbytes==0.42.0",
-    "accelerate>=0.26.1",
+    "accelerate>=0.28.0",
     "evaluate>=0.4.1",
     "jinja2>=3.0.0",
     "jupyter>=1.0.0",
