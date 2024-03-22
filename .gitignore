@@ -168,4 +168,4 @@ pdm.lock
 *.amltmp
 .ipynb_aml_checkpoints
 .model/
-
+logs/
