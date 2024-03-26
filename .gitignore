@@ -169,3 +169,5 @@ pdm.lock
 .ipynb_aml_checkpoints
 .model/
 logs/
+artifacts/
+wandb/
