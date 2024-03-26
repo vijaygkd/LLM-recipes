@@ -1,6 +1,5 @@
 python-dotenv
 torch>=2.2.0
-torchmetrics
 transformers==4.39.1
 datasets>=2.16.0
 bitsandbytes>=0.39.0
