@@ -12,5 +12,6 @@ dependencies = [
     "evaluate>=0.4.1",
     "jinja2>=3.0.0",
     "jupyter>=1.0.0",
+    "wandb>=0.16.5",
 ]
 requires-python = ">=3.11"

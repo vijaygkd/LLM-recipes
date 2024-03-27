@@ -171,3 +171,4 @@ pdm.lock
 logs/
 artifacts/
 wandb/
+*.jsonl
