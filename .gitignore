@@ -172,3 +172,4 @@ logs/
 artifacts/
 wandb/
 *.jsonl
+*.json
