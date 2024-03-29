@@ -2,6 +2,7 @@ python-dotenv
 torch>=2.2.0
 transformers==4.39.1
 datasets>=2.16.0
+trl
 bitsandbytes>=0.39.0
 accelerate>=0.26.1
 evaluate>=0.4.1
