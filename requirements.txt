@@ -1,7 +1,7 @@
 python-dotenv
 torch>=2.2.0
 torchvision>=0.9.1
-transformers==4.39.1
+transformers==4.41.1
 datasets>=2.16.0
 trl>=0.8.1
 peft>=0.10.0
@@ -13,4 +13,5 @@ mlflow>=2.8.0
 tqdm
 wandb>=0.16.5
 pytesseract>=0.3.10
-
+torchtune>=0.2.1
+lm_eval>=0.4.*
