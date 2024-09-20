@@ -1,7 +1,7 @@
 python-dotenv
-torch>=2.2.0
+torch>=2.4.1
 torchvision>=0.9.1
-transformers==4.41.1
+transformers>=4.44
 datasets>=2.16.0
 trl>=0.8.1
 peft>=0.10.0
